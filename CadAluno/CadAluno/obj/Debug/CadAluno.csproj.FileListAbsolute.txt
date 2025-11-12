@@ -1,0 +1,21 @@
+C:\Users\aluno\Desktop\CadAluno\CadAluno\bin\Debug\CadAluno.exe.config
+C:\Users\aluno\Desktop\CadAluno\CadAluno\bin\Debug\CadAluno.exe
+C:\Users\aluno\Desktop\CadAluno\CadAluno\bin\Debug\CadAluno.pdb
+C:\Users\aluno\Desktop\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\CadAluno\CadAluno\obj\Debug\CadAluno.Form1.resources
+C:\Users\aluno\Desktop\CadAluno\CadAluno\obj\Debug\CadAluno.Properties.Resources.resources
+C:\Users\aluno\Desktop\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\CadAluno\CadAluno\obj\Debug\CadAluno.exe
+C:\Users\aluno\Desktop\CadAluno\CadAluno\obj\Debug\CadAluno.pdb
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\bin\Debug\CadAluno.exe.config
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\bin\Debug\CadAluno.exe
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\bin\Debug\CadAluno.pdb
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.AssemblyReference.cache
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\obj\Debug\CadAluno.exe.config
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\obj\Debug\CadAluno.Form1.resources
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\obj\Debug\CadAluno.Properties.Resources.resources
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.GenerateResource.cache
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\obj\Debug\CadAluno.exe
+C:\Users\Windows 11\OneDrive\Documentos\1 - PASTAS DO LUCAS\IFSP\ADS\2º semestre\Programação Orientada a Objetos\CadAluno\CadAluno\obj\Debug\CadAluno.pdb
